@@ -18,7 +18,9 @@ O Git é um conceito essencial no mercado de trabalho atualmente, por isso sempr
 
 ## Links Importantes
 Explore generative AI with Microsoft Copilot
+
 Explore Azure OpenAI
+
 Explore content filters in Azure OpenAI
 
 
