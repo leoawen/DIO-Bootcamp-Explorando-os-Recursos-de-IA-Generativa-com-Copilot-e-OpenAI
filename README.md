@@ -1,5 +1,5 @@
 # **MICROCOSMO GERADOR DE SUSTENTABILIDADE NATURAL**
-### *Apreciação por IA (Inteligência Artificial) do Painel Visual da Sistematização e Dinâmica de Funcionamento da proposta de Tecnologia Social****“Microcosmo Gerador de Sustentabilidade Natural”***
+## *Apreciação por IA (Inteligência Artificial) do Painel Visual da Sistematização e Dinâmica de Funcionamento da proposta de Tecnologia Social “Microcosmo Gerador de Sustentabilidade Natural”*
 
 ![Microcosmo Gerador - v1_7 com sombras - Inkscape - Sujeito Integral ATUAL.png](https://github.com/leoawen/Microcosmo-Gerador-de-Sustentabilidade-Natural/blob/main/Imput/Microcosmo%20Gerador%20I%20Sujeito%20Integral%20-%20Inkscape%20ATUAL%20v1_7.png)
 *Leonardo Soares Gonçalves*
