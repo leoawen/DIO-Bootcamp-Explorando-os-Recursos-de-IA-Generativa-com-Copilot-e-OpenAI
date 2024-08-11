@@ -154,9 +154,11 @@ A proposta do **Microcosmo Gerador de Sustentabilidade Natural** está profundam
 O **Microcosmo Gerador de Sustentabilidade Natural** está em plena consonância com a visão de Edgar Morin sobre o desenvolvimento humano, ao integrar o desenvolvimento das autonomias individuais, a participação comunitária e o sentimento de pertencimento à espécie humana em um ciclo virtuoso. Sua aplicação na sociedade moderna poderia catalisar uma transformação profunda, promovendo comunidades mais coesas, sustentáveis e emancipadas, e inspirando uma mudança de paradigma econômico e social em direção a um modelo mais humano e ecológico.
 
 
-*“Dedicado a todos os espíritos que honram a verdade e se esmeram no cultivo do Amor e do valor de caráter.”*
+## *“Dedicado a todos os espíritos que honram a verdade e se esmeram no cultivo do Amor e do valor de caráter.”*
+
 *Leonardo*
 
+## 🙏🌹
 
 
 
