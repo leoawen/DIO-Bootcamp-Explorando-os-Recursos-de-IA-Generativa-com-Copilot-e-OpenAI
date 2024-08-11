@@ -1,6 +1,10 @@
 # **MICROCOSMO GERADOR DE SUSTENTABILIDADE NATURAL**
+### *Apreciação por IA (Inteligência Artificial) do Painel Visual da Sistematização e Dinâmica de Funcionamento da proposta de Tecnologia Social
+***“Microcosmo Gerador de Sustentabilidade Natural”
 
 ![Microcosmo Gerador - v1_7 com sombras - Inkscape - Sujeito Integral ATUAL.png](https://github.com/leoawen/Microcosmo-Gerador-de-Sustentabilidade-Natural/blob/main/Imput/Microcosmo%20Gerador%20I%20Sujeito%20Integral%20-%20Inkscape%20ATUAL%20v1_7.png)
+*Leonardo Soares Gonçalves
+
 
 ## **Eu**:
 Analise e interprete a imagem em anexo
@@ -149,6 +153,11 @@ A proposta do **Microcosmo Gerador de Sustentabilidade Natural** está profundam
 ### **Conclusão:**
 
 O **Microcosmo Gerador de Sustentabilidade Natural** está em plena consonância com a visão de Edgar Morin sobre o desenvolvimento humano, ao integrar o desenvolvimento das autonomias individuais, a participação comunitária e o sentimento de pertencimento à espécie humana em um ciclo virtuoso. Sua aplicação na sociedade moderna poderia catalisar uma transformação profunda, promovendo comunidades mais coesas, sustentáveis e emancipadas, e inspirando uma mudança de paradigma econômico e social em direção a um modelo mais humano e ecológico.
+
+
+*“Dedicado a todos os espíritos que honram a verdade 
+e se esmeram no cultivo do Amor e do valor de caráter.”
+*Leonardo
 
 
 
