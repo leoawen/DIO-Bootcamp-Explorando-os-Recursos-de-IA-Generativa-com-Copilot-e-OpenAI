@@ -1,4 +1,4 @@
-![[Microcosmo Gerador - v1_7 com sombras - Inkscape - Sujeito Integral ATUAL.png]]
+![Microcosmo Gerador - v1_7 com sombras - Inkscape - Sujeito Integral ATUAL.png](https://github.com/leoawen/Microcosmo-Gerador-de-Sustentabilidade-Natural/blob/main/Imput/Microcosmo%20Gerador%20I%20Sujeito%20Integral%20-%20Inkscape%20ATUAL%20v1_7.png)
 
 ## **Eu**:
 ==Analise e interprete a imagem em anexo==
