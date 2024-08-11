@@ -110,7 +110,7 @@ O **Microcosmo Gerador de Sustentabilidade Natural** é uma ferramenta que visa 
 
 
 ## **Eu**:
-Como e quanto esse conceito e proposta apresentado e desenvolvido no Diagrama do Microcosmo Gerador de Sustentabilidade Natural está em consonância com a afirmação de Edgar Morin de que “Todo desenvolvimento verdadeiramente humano significa o desenvolvimento conjunto das autonomias individuais, das participações comunitárias e do sentimento de pertencer a espécie humana”? E como a aplicação de todo o conceito do Diagrama impactaria na Sociedade moderna?
+Como e quanto esse conceito e proposta apresentado e desenvolvido no Diagrama do Microcosmo Gerador de Sustentabilidade Natural está em consonância com a afirmação de Edgar Morin de que ***“Todo desenvolvimento verdadeiramente humano significa o desenvolvimento conjunto das autonomias individuais, das participações comunitárias e do sentimento de pertencer a espécie humana”***? E como a aplicação de todo o conceito do Diagrama impactaria na Sociedade moderna?
 ## ChatGPT
 A proposta do **Microcosmo Gerador de Sustentabilidade Natural** está profundamente alinhada com a visão de Edgar Morin sobre o desenvolvimento humano, especialmente em sua afirmação de que “Todo desenvolvimento verdadeiramente humano significa o desenvolvimento conjunto das autonomias individuais, das participações comunitárias e do sentimento de pertencer à espécie humana.” Vamos explorar essa consonância e os impactos potenciais na sociedade moderna.
 
