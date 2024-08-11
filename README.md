@@ -1,7 +1,9 @@
+# **MICROCOSMO GERADOR DE SUSTENTABILIDADE NATURAL**
+
 ![Microcosmo Gerador - v1_7 com sombras - Inkscape - Sujeito Integral ATUAL.png](https://github.com/leoawen/Microcosmo-Gerador-de-Sustentabilidade-Natural/blob/main/Imput/Microcosmo%20Gerador%20I%20Sujeito%20Integral%20-%20Inkscape%20ATUAL%20v1_7.png)
 
 ## **Eu**:
-==Analise e interprete a imagem em anexo==
+Analise e interprete a imagem em anexo
 ## ChatGPT
 A imagem anexada é um diagrama intitulado "Microcosmo Gerador de Sustentabilidade Natural". Ela é composta por várias seções interconectadas, formando um círculo que parece representar um ciclo de vida ou um processo contínuo de desenvolvimento sustentável, centrado no conceito de "Sujeito Integral".
 
@@ -37,7 +39,7 @@ A ideia central é que o desenvolvimento individual e coletivo deve ser sustenta
 
 
 ## **Eu**:
-==Analise as anotações enumeradas ao redor do círculo e faça uma síntese coerente dos conceitos propostos pelas anotações.==
+Analise as anotações enumeradas ao redor do círculo e faça uma síntese coerente dos conceitos propostos pelas anotações.
 ## ChatGPT
 As anotações enumeradas ao redor do círculo na imagem fornecem uma orientação prática e filosófica sobre como os indivíduos e as comunidades podem atingir uma vida sustentável e integral. Aqui está uma análise e síntese dos conceitos propostos por essas anotações:
 
@@ -63,7 +65,7 @@ As anotações enumeradas oferecem um guia para a vida sustentável e integrada,
 Essa abordagem destaca a importância da colaboração e da interdependência dentro da comunidade, onde o bem-estar coletivo é essencial para o desenvolvimento pessoal e vice-versa. A felicidade e o amor são apresentados não como objetivos isolados, mas como resultados naturais de um ciclo contínuo de gratidão e ação consciente.
 
 ## **Eu**:
-==Esse Diagrama em mandala fui eu que desenvolvi, baseado em muitas referências. É uma proposta de solução e tecnologia Social para criar Ambientes Comunitários de Convivência e gerar um Microcosmo Gerador de Sustentabilidade Natural (esse nome é autoelucidativo). Minha ideia era fornecer um guia para os sujeitos de uma comunidade saberem se orientar através de um Círculo Virtuoso e a Comunidade alcançar Emancipação e Prosperidade Individual e Coletiva. O diagrama é lido a partir da Base embaixo no meio, que representa o Surgimento e a Criação da Realidade e da Existência através do Potencial Criativo Universal que move Tudo. Perceba as setas do círculo propondo o movimento Virtuoso e indicando a ordem de ações que guiam a Comunidade. O Ciclo é Iterativo e de reforço e retroalimentação. Ao Centro está o Sujeito integral sustentado pelos Anéis de Aliança dos Princípios da Sustentabilidade.==
+Esse Diagrama em mandala fui eu que desenvolvi, baseado em muitas referências. É uma proposta de solução e tecnologia Social para criar Ambientes Comunitários de Convivência e gerar um Microcosmo Gerador de Sustentabilidade Natural (esse nome é autoelucidativo). Minha ideia era fornecer um guia para os sujeitos de uma comunidade saberem se orientar através de um Círculo Virtuoso e a Comunidade alcançar Emancipação e Prosperidade Individual e Coletiva. O diagrama é lido a partir da Base embaixo no meio, que representa o Surgimento e a Criação da Realidade e da Existência através do Potencial Criativo Universal que move Tudo. Perceba as setas do círculo propondo o movimento Virtuoso e indicando a ordem de ações que guiam a Comunidade. O Ciclo é Iterativo e de reforço e retroalimentação. Ao Centro está o Sujeito integral sustentado pelos Anéis de Aliança dos Princípios da Sustentabilidade.
 ## ChatGPT
 Memória atualizada
 Essa descrição acrescenta uma profundidade ainda maior ao seu diagrama, mostrando que ele não é apenas uma representação visual de ideias, mas uma ferramenta prática para a transformação social. O "Microcosmo Gerador de Sustentabilidade Natural" que você desenvolveu serve como um guia dinâmico e iterativo, que orienta os indivíduos e as comunidades em um ciclo virtuoso de ações e reflexões.
@@ -76,7 +78,7 @@ A sua criação vai além de um simples modelo teórico, oferecendo uma tecnolog
 
 
 ## **Eu**:
-==Então, agora, o que você pode me dizer sobre o que você entende a respeito do Microcosmo Gerador de Sustentabilidade Natural?==
+Então, agora, o que você pode me dizer sobre o que você entende a respeito do Microcosmo Gerador de Sustentabilidade Natural?
 ## ChatGPT
 O **Microcosmo Gerador de Sustentabilidade Natural** é uma proposta de tecnologia social e guia prático que você desenvolveu com o objetivo de orientar comunidades em direção à emancipação e prosperidade, tanto individual quanto coletiva. O conceito central é o de um ciclo virtuoso, onde cada ação e decisão tomada pela comunidade reforça o desenvolvimento sustentável e interdependente de seus membros.
 
@@ -104,7 +106,7 @@ O **Microcosmo Gerador de Sustentabilidade Natural** é uma ferramenta que visa 
 
 
 ## **Eu**:
-==Como e quanto esse conceito e proposta apresentado e desenvolvido no Diagrama do Microcosmo Gerador de Sustentabilidade Natural está em consonância com a afirmação de Edgar Morin de que “Todo desenvolvimento verdadeiramente humano significa o desenvolvimento conjunto das autonomias individuais, das participações comunitárias e do sentimento de pertencer a espécie humana”? E como a aplicação de todo o conceito do Diagrama impactaria na Sociedade moderna?==
+Como e quanto esse conceito e proposta apresentado e desenvolvido no Diagrama do Microcosmo Gerador de Sustentabilidade Natural está em consonância com a afirmação de Edgar Morin de que “Todo desenvolvimento verdadeiramente humano significa o desenvolvimento conjunto das autonomias individuais, das participações comunitárias e do sentimento de pertencer a espécie humana”? E como a aplicação de todo o conceito do Diagrama impactaria na Sociedade moderna?
 ## ChatGPT
 A proposta do **Microcosmo Gerador de Sustentabilidade Natural** está profundamente alinhada com a visão de Edgar Morin sobre o desenvolvimento humano, especialmente em sua afirmação de que “Todo desenvolvimento verdadeiramente humano significa o desenvolvimento conjunto das autonomias individuais, das participações comunitárias e do sentimento de pertencer à espécie humana.” Vamos explorar essa consonância e os impactos potenciais na sociedade moderna.
 
